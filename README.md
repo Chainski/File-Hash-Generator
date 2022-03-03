@@ -1,4 +1,5 @@
 <a href="https://github.com/chainski/File-Hash-Generator"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
+<a href="https://github.com/chainski/File-Hash-Generator"><img src="https://img.shields.io/badge/OPEN--SOURCE-YES-green"></a>
 
 
 ## File-Hash-Generator
