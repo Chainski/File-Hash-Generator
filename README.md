@@ -13,6 +13,10 @@ Certutil.exe command from a file by drag and drop on this batch script and save 
 - Currently ready for release.
 - Version: Stable-1.0.0
 
+## Demo 
+# ![preview](https://user-images.githubusercontent.com/96607632/156615247-af4c9be5-698d-4012-80c0-d78accb8afe0.gif)
+
+
 | **Download Type** | **MD5 Hash** | **Size**|
 |:------------------|:---------------|:--------|
 | [x64](https://github.com/chainski/File-Hash-Generator/releases/download/1.0.0.0/File-Hash-Generator_x64.exe) | CE5623FF5CC4B992C654AC46E789116C | 182kb |
@@ -26,4 +30,5 @@ My software is open source and free for public use.
 If you found any of these repos useful and would like to support this project financially, 
 feel free to donate to my bitcoin address.
 ### 16MvVEqRBbE5Ttr8a18DfbEQp7K2m3u2qa
+
 ![image](https://user-images.githubusercontent.com/96607632/147606406-9b782015-48af-4708-bf17-7da7460de8f7.png)
