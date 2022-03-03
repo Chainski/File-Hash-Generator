@@ -13,9 +13,6 @@ Certutil.exe command from a file by drag and drop on this batch script and save 
 - Currently ready for release.
 - Version: Stable-1.0.0
 
-## Demo 
-# ![preview](https://user-images.githubusercontent.com/96607632/156615247-af4c9be5-698d-4012-80c0-d78accb8afe0.gif)
-
 
 | **Download Type** | **MD5 Hash** | **Size**|
 |:------------------|:---------------|:--------|
