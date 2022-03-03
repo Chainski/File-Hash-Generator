@@ -29,5 +29,6 @@ Certutil.exe command from a file by drag and drop on this batch script and save 
 My software is open source and free for public use. 
 If you found any of these repos useful and would like to support this project financially, 
 feel free to donate to my bitcoin address.
+![image](https://user-images.githubusercontent.com/96607632/147606406-9b782015-48af-4708-bf17-7da7460de8f7.png)
 ### 16MvVEqRBbE5Ttr8a18DfbEQp7K2m3u2qa
 
