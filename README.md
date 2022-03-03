@@ -9,3 +9,11 @@ Certutil.exe command from a file by drag and drop on this batch script and save 
 ## Status
 - Currently ready for release.
 - Version: Stable-1.0.0
+
+| **Download Type** | **MD5 Hash** | **Size**|
+|:------------------|:---------------|:--------|
+| [x64](https://github.com/chainski/File-Hash-Generator/releases/download/1.0.0.0/File-Hash-Generator_x64.exe) | CE5623FF5CC4B992C654AC46E789116C | 182kb |
+| [x86](https://github.com/chainski/File-Hash-Generator/releases/download/1.0.0.0/File-Hash-Generator_x86.exe) | 23A9ABB72BC78FB5763E38415B901FBA | 173kb |
+| [x64 archive](https://github.com/chainski/File-Hash-Generator/releases/download/1.0.0.0/File-Hash-Generator_x64.tar.gz) | 278071C8B59509FC809AB7D066AE0F1E | 179kb |
+| [x86 archive](https://github.com/chainski/File-Hash-Generator/releases/download/1.0.0.0/File-Hash-Generator_x86.tar.gz) | 27962CBEFF4646577AD8EE80316FE8C5 | 170kb |
+| [Source Code](https://github.com/chainski/File-Hash-Generator/archive/refs/tags/1.0.0.0.zip) | 45bcc6814c7e40fa7cf369566aaa70ef | 4kb |
