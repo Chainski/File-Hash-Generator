@@ -1,7 +1,10 @@
-<a href="https://github.com/chainski/File-Hash-Generator"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
-<a href="https://github.com/chainski/File-Hash-Generator"><img src="https://img.shields.io/badge/OPEN--SOURCE-YES-green"></a>
-<a href="https://github.com/chainski/File-Hash-Generator/releases"><img src="https://img.shields.io/github/v/release/chainski/File-Hash-Generator"></a> 
-<a href="https://github.com/chainski/File-Hash-Generator"><img src="https://img.shields.io/badge/contributions-welcome-green"></a>
+<p align= "center">
+<img src="https://img.shields.io/github/stars/Chainski/File-Hash-Generator?style=flat&color=orange"></a>
+<img src="https://hits.sh/github.com/Chainski/File-Hash-Generator.svg?label=views&color=orange"></a>
+<img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
+<img src="https://img.shields.io/github/v/release/chainski/File-Hash-Generator?&color=orange"></a> 
+</p>
+
 
 ## File Hash Generator
 This script can get all the Hashes (MD2, MD4, MD5, SHA1, SHA256, SHA384, SHA512) with 
@@ -19,9 +22,3 @@ Certutil.exe command from a file by drag and drop on this batch script and save 
 | [x86 archive](https://github.com/chainski/File-Hash-Generator/releases/download/1.0.0.0/File-Hash-Generator_x86.tar.gz) | 27962CBEFF4646577AD8EE80316FE8C5 | 170kb |
 | [Source Code](https://github.com/chainski/File-Hash-Generator/archive/refs/tags/1.0.0.0.zip) | 45bcc6814c7e40fa7cf369566aaa70ef | 4kb |
 
-### Support and Contributions
-My software is open source and free for public use. 
-If you found any of these repos useful and would like to support this project financially, 
-feel free to donate to my bitcoin address.
-
-<a href="https://www.blockchain.com/btc/address/16T1fUehoGR4E2sj98u9e9mKuQ7uSLvxRJ"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg"></a>
